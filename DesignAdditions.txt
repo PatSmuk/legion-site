@@ -1,0 +1,12 @@
+
+
+<====== DESIGN ADDITIONS ======>
+
+- Logo idea: Helmet similiar to Leonidas or a typical Spartan helmet. Google search "leonidas Helmet" for an idea.
+
+- Make or find icons for different sections.
+	- About has the helmet.
+	- Conquests has a shield or pike.
+	- Contact has the winged shoe.
+
+- Favicon should be the helmet used in the logo or the about section depending on what logo is chosen.
